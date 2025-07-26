@@ -48,6 +48,8 @@ I’m still exploring where I want to go, but I know it’ll involve thoughtful 
 
 # [_Basic Terminal Commands_](https://www.codecademy.com/learn/learn-the-command-line/modules/learn-the-command-line-navigation/cheatsheet "Navigating the File System")
 
+![termianl](./termenal.png)
+
 ## **pwd**
 
 > 1. Print current directory starting from root
